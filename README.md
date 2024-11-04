@@ -1,3 +1,8 @@
+# Exercise With Friend
+실사용자 Scanned 및 Personalized avatar를 이용한 실시간 모션트래킹 애플리케이션 <br>
+ganeshsar/UnityPythonMediaPipeAvatar (https://github.com/ganeshsar/UnityPythonMediaPipeAvatar) 활용<br>
+<br><br>
+
 # Unity + Python Google MediaPipe Avatar
 
 ## Overview
