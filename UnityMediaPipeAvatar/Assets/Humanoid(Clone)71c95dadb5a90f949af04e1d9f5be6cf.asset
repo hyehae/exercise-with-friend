@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f1260b785da3e24ebe737764cc33de0, type: 3}
+  m_Name: Humanoid(Clone)71c95dadb5a90f949af04e1d9f5be6cf
+  m_EditorClassIdentifier: 
+  note: fourth
+  parentCalibrationData:
+  - bone: 14
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/
+      tparentn: PipeServer/Body Parent/RIGHT_SHOULDER/
+      tchildn: PipeServer/Body Parent/RIGHT_ELBOW/
+      initialDir: {x: -0.9970174, y: 0.07715415, z: 0.0019044364}
+      initialRotation: {x: 0.51801455, y: -0.51801556, z: 0.48131043, w: 0.48131207}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 16
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/
+      tparentn: PipeServer/Body Parent/RIGHT_ELBOW/
+      tchildn: PipeServer/Body Parent/RIGHT_WRIST/
+      initialDir: {x: -0.98929286, y: -0.14178854, z: -0.034578253}
+      initialRotation: {x: 0.5249538, y: -0.5249551, z: 0.47373232, w: 0.47373393}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 2
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:RightUpLeg/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/
+      tparentn: PipeServer/Body Parent/RIGHT_HIP/
+      tchildn: PipeServer/Body Parent/RIGHT_KNEE/
+      initialDir: {x: -0.030415948, y: -0.99793726, z: -0.056534007}
+      initialRotation: {x: 0.99995625, y: 0.009258799, z: -0.0013232918, w: 0.00016501996}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 4
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/
+      tparentn: PipeServer/Body Parent/RIGHT_KNEE/
+      tchildn: PipeServer/Body Parent/RIGHT_ANKLE/
+      initialDir: {x: -0.04536819, y: -0.9309074, z: 0.36242658}
+      initialRotation: {x: 0.9995036, y: -0.009341835, z: -0.0018908423, w: 0.030027268}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 13
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/
+      tparentn: PipeServer/Body Parent/LEFT_SHOULDER/
+      tchildn: PipeServer/Body Parent/LEFT_ELBOW/
+      initialDir: {x: 0.92446506, y: -0.28325397, z: -0.25520867}
+      initialRotation: {x: 0.5171715, y: 0.5171691, z: -0.48221964, w: 0.482218}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 15
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/
+      tparentn: PipeServer/Body Parent/LEFT_ELBOW/
+      tchildn: PipeServer/Body Parent/LEFT_WRIST/
+      initialDir: {x: 0.9455652, y: -0.02724386, z: -0.32429036}
+      initialRotation: {x: 0.52478576, y: 0.5247834, z: -0.47392225, w: 0.47392005}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 1
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:LeftUpLeg/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/
+      tparentn: PipeServer/Body Parent/LEFT_HIP/
+      tchildn: PipeServer/Body Parent/LEFT_KNEE/
+      initialDir: {x: -0.047967542, y: -0.99581975, z: 0.077731065}
+      initialRotation: {x: 0.9999533, y: -0.009260863, z: 0.0014273878, w: -0.002348262}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 3
+    data:
+      parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/
+      childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/
+      tparentn: PipeServer/Body Parent/LEFT_KNEE/
+      tchildn: PipeServer/Body Parent/LEFT_ANKLE/
+      initialDir: {x: 0.1505699, y: -0.94089687, z: 0.30338395}
+      initialRotation: {x: 0.9994501, y: 0.009350401, z: 0.0020631445, w: 0.031748235}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  spineUpDown:
+    parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/
+    childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/
+    tparentn: VirtualHip/
+    tchildn: VirtualNeck/
+    initialDir: {x: -0.021305265, y: 0.9691216, z: -0.2456614}
+    initialRotation: {x: -4.6585603e-13, y: 0.99943155, z: 0.03371379, w: -5.7411853e-12}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  hipsTwist:
+    parentn: Humanoid(Clone)/mixamorig:Hips/
+    childn: Humanoid(Clone)/mixamorig:Hips/
+    tparentn: PipeServer/Body Parent/RIGHT_HIP/
+    tchildn: PipeServer/Body Parent/LEFT_HIP/
+    initialDir: {x: 0.96498334, y: -0.002116065, z: -0.26230252}
+    initialRotation: {x: -0.000006779471, y: 1, z: -0.000000026045933, w: -0.00000019806}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  chest:
+    parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/
+    childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/
+    tparentn: PipeServer/Body Parent/RIGHT_HIP/
+    tchildn: PipeServer/Body Parent/LEFT_HIP/
+    initialDir: {x: 0.96498334, y: -0.002116065, z: -0.26230252}
+    initialRotation: {x: -1.1108678e-14, y: 0.99943155, z: 0.03371379, w: -5.7127636e-12}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  head:
+    parentn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/
+    childn: Humanoid(Clone)/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/
+    tparentn: VirtualNeck/
+    tchildn: PipeServer/Body Parent/NOSE/
+    initialDir: {x: 0.086743265, y: 0.40265998, z: -0.91123027}
+    initialRotation: {x: 9.043362e-13, y: 1, z: 0.00000001493226, w: -5.6132876e-12}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}
